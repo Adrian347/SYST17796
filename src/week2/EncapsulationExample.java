@@ -13,7 +13,7 @@ public class EncapsulationExample
 {
     public static void main(String[] args) 
     {
-        Student[] list = new Student[5];
+        Student[] list = new Student[3];
         Student s1 = new Student();
         s1.setName("John");
         s1.setAge(21);
